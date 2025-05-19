@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hopeconnect-tracking-export",
+  "private_key_id": "baad434bcdd99d65035c1970c87deb78317600cc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDaDuHtPeesWATH\nIbErcfj7Xy4MVyDvxRIwwGyhxzlILS8OVTjlLddg02pY18Z3bdJ84Eun60yO4KYD\n78TeBvNEZMUN2t+uGJ+LnJbTn7IFrVMmBFN2r8/CxdymiVyD7XKRMaZmKE2Oxl59\nGa6j+95/QHTXnePyBNuh120fJIz2CZL3TXdyNKOb0MC9Qwt+adrmjmbLammhZiYy\nwOkupD8YGe0or8tgF4LkjsduicUP/KtXmKpDz3vv01g3KrS6d3Q39Opc4h1mhxwe\nToYe+mDVhAY5+nHndmqDWfcj5wkWZ+vjhSU8z3BET0GFjb5GQlAxwPL+KV2jas8p\ndeT3vxJ5AgMBAAECggEABD2W2jDCgSEDEsZOdjxUrbrHn/jPzKnl9SnA0xKXRBaQ\n3DP/E8Hk9t6Vql2j3+20UrZf8keKqRqoT9pJV1IGSBW3mVHg2Ldk3uewLTRlV2Ps\nAojCAMRhg3WqmViBgpVLDZTMGh99hqHH86HcuharWIkt3IWXCb1bchXI6vqgfSZg\nUpm+nZWpFZpGvliS+HlL3TqDjSs8yoj8VlwtOHfWFfRoXCiX9gxPNb53t3na1Myk\nLhZYZECOdXk0Dz0qM6GgOm3OGMeJAzqIiM72Mj/K6tcKneMqSvQbmOhfJP/ZT8cq\nZ1C6IvIem6luoJ2Zoo9kXnKXGSnaCc3oAaQ7aU352wKBgQDx8BGSgiAqFbLfrgRG\nXZ9qDl3ERMTQSJ8NWu4AON9Zlewk//hRg2g5sT0PwqDM/f0qii9FaZ66LaqldRsk\nM+ze6Wbht1h3JS6IaYr4AY3lWE9/BddFRU/lNShRv0Sr2Dqzpyi6kvB28/TMVYqF\nW6sIKsuNlkRAwzz0F5KlnKit6wKBgQDmu369ABf0s1bBGQYQJA0o7jV/8Nhs5rt4\n/K3vW8vQwtuqhLioO6N7zqawwMkSDRUZnP+kzsBumFjMYTMhFmTZY3AZmkNJ59ou\nZwfY/pfvj7FfjCjDKAux/o7WByJAZL817f+G81Xfv2wtEW+JoZJf3JWs9mrY2ioT\nzdj+KxqUKwKBgEjmADV39f8YSKxzP6CAJz+KkqBH5FGqABrDEkGI4WuZ6+x+IDFX\nefkgOXjdORxrT3QY7QNqPsR0bB2sun/fEXldNH3Ag+xqjKnXu2Lc/Qdk45cviFy7\n9MXojXyMOEHbRlzJelE1YzVEbrd+8t0Z8N/mHS1NYMVuzpfx3mL+YCj/AoGALzju\nfnYXcRCHT+v0LreCLf9a2b2MPfWXJvLoElYCR86psKOLO3tBQWSQ/xnlzRj6WYyl\nUbCy96+cdO/ry/jOWSOd3M+St/yIzfhuRb4NkI0jKz//U7nNcvd7elhpbS5xZ/M2\n2gLRb4K4/BxWbJ+x2obF52ljgtBbzkPSBmsB/JMCgYANh9kj/4ajYVEUWHau6uDU\nvkMeTq+bE5aebNz5Uw4sKqSKJMga38ApR6wXoxKiUBPvlUqL0lV1mKEkY5DKfs2x\n2sq3Pl1Ab1N1D4MvaxkPIx9IetAr21wArFTvCaDKc1sV+xalQrLD0f5+pB7c4IN3\nbJy80SLQbosJL5m1bONSMA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "hopeconnect-sheet-exporter@hopeconnect-tracking-export.iam.gserviceaccount.com",
+  "client_id": "111700257804835813620",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hopeconnect-sheet-exporter%40hopeconnect-tracking-export.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
